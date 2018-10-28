@@ -1,0 +1,42 @@
+login as: bitrix
+bitrix@192.168.1.30's password:
+Last login: Sun Oct 28 23:00:16 2018 from 192.168.1.55
+[bitrix@8160857 ~]$ ls -ls
+total 4
+4 drwxrwx--- 16 bitrix bitrix 4096 Oct 28 23:19 www
+[bitrix@8160857 ~]$ ls
+www
+[bitrix@8160857 ~]$ git init
+Initialized empty Git repository in /home/bitrix/.git/
+[bitrix@8160857 ~]$ vim.gitignrore
+-bash: vim.gitignrore: command not found
+[bitrix@8160857 ~]$ vim.gitignore
+-bash: vim.gitignor
+vim .gitignore
+login as: bitrix
+bitrix@192.168.1.30's password:
+Last login: Sun Oct 28 23:00:16 2018 from 192.168.1.55
+[bitrix@8160857 ~]$ ls -ls
+total 4
+4 drwxrwx--- 16 bitrix bitrix 4096 Oct 28 23:19 www
+[bitrix@8160857 ~]$ ls
+www
+[bitrix@8160857 ~]$ git init
+Initialized empty Git repository in /home/bitrix/.git/
+[bitrix@8160857 ~]$ vim.gitignrore
+-bash: vim.gitignrore: command not found
+[bitrix@8160857 ~]$ vim.gitignore
+-bash: vim.gitignore: command not found
+[bitrix@8160857 ~]$ vim .gitignore
+^Z^Z^Zlogin as: bitrix
+bitrix@192.168.1.30's password:
+Last login: Sun Oct 28 23:00:16 2018 from 192.168.1.55
+[bitrix@8160857 ~]$ ls -ls
+total 4
+4 drwxrwx--- 16 bitrix bitrix 4096 Oct 28 23:19 www
+[bitrix@8160857 ~]$ ls
+www
+[bitrix@8160857 ~]$ git in
+
+
+
